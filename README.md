@@ -1,5 +1,5 @@
 ## This repository contains the exploratory data analysis of  the IDPs in Nothern Nigeria
-An internally displaced person (IDP) is someone who is forced to flee his or her home but who remains within his or her country's borders.
+An internally displaced person (IDP) is someone who is forced to flee his home but who remains within his country's borders.
 
 According to IDMC, causes of displacements in Nigeria are primarily due to insurgency in the Northeast, surge of inter-communal conflicts,
 massive flooding, amongst others.
